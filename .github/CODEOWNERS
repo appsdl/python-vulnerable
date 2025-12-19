@@ -1,0 +1,13 @@
+# 👋 Welcome to your CODEOWNERS file!
+                    # This file lets you define who reviews and owns what in your repo.
+                    # For more info: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+                    # Example: All files require review from the security team
+                    *       @your-org/security-team
+
+                    # Example: JS files go to the frontend team
+                    # *.js    @your-org/frontend
+
+                    # Example: Specific path ownership
+                    # /api/   @your-org/backend
+                    
